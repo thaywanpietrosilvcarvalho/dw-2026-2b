@@ -32,6 +32,6 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Rafaella Batista dos Santos
 - Sarah Gabriela Borba
 - Tales Tavares Pidde
-- Thaywan Pietro Silva Carvalho
+- Thaywan Pietro Silva Carvalho [@thaywanpietrosilvcarvalho] (https://github.com/thaywanpietrosilvcarvalho)
 - Victor Gabriel da Silva Cunha
 - Yago Pereira Santiago
